@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @solemnVortex
-- 👀 I’m interested in making simple things.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Mediocrity
 
 <!---
 solemnVortex/solemnVortex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
